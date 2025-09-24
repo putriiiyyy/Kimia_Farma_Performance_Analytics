@@ -27,6 +27,6 @@ WITH laba_final_transaction AS
       WHEN nett_sales > 100000 AND nett_sales <= 300000 THEN 0.2
     ....
 ```
-📂 For the full set of queries, check the [SQL](SQL/sql_code)
+📂 For the full set of queries, check the [SQL_code](SQL/sql_code.sql)
 # 📊 Visualization
 # 📚 Credi
