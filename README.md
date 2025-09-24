@@ -3,6 +3,11 @@ This is my Google BigQuery + Looker Studio project, developed as part of the Pro
 
 The project focuses on analyzing Kimia Farma store transactions across Indonesia from 2020 to 2023, with the main goal of calculating net profit. The analysis highlights performance trends by year, region, and product categories, and the results are presented through an interactive dashboard built in Looker Studio to support business decision-making.
 # 🎯 Project Objectives
+Kimia Farma operates a nationwide network of stores, generating sales across multiple provinces in Indonesia. Transactions include various product categories and span from 2020 to 2023. The management requested insights into overall business performance, with a focus on net profit. This project answers:
+- Comparison of Kimia Farma’s revenue year by year
+- Top 10 branches by total transactions per province
+- Top 10 branches by net sales per province
+- Geo map visualization of total profit across Indonesian provinces
 # 🛠️ Tools Used
 # 🔎 Analysis Focus
 # 💻 Sample SQL Query
