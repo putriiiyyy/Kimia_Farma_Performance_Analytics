@@ -34,7 +34,7 @@ An interactive Google Looker Studio dashboard was created to display:
 - Top 10 branches by total transactions per province
 - Top 10 branches by net sales per province
 - Geo map of total profit across Indonesian provinces
-
+🔗 https://lookerstudio.google.com/reporting/1eb99b25-746b-4a06-abd5-6e0dbc4c8cbd
 # 📚 Credit
 - This project was developed as part of a Project-Based Internship at Kimia Farma.
 - All datasets used in this project are © Kimia Farma.
