@@ -29,4 +29,14 @@ WITH laba_final_transaction AS
 ```
 📂 For the full set of queries, check the [SQL_code](SQL/sql_code.sql)
 # 📊 Visualization
-# 📚 Credi
+An interactive Google Looker Studio dashboard was created to display:
+- Year-over-year revenue comparison (2020–2023)
+- Top 10 branches by total transactions per province
+- Top 10 branches by net sales per province
+- Geo map of total profit across Indonesian provinces
+
+# 📚 Credit
+- This project was developed as part of a Project-Based Internship at Kimia Farma.
+- All datasets used in this project are © Kimia Farma.
+- All SQL queries, analysis, visualizations, key business insights, and recommendations were created by me.
+- This repository is intended solely for learning and portfolio purposes.
