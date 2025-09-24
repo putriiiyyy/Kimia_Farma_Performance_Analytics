@@ -9,7 +9,12 @@ Kimia Farma operates a nationwide network of stores, generating sales across mul
 - Top 10 branches by net sales per province
 - Geo map visualization of total profit across Indonesian provinces
 # 🛠️ Tools Used
+- Google BigQuery (SQL) → for data cleaning, querying, grouping, and calculating net profit
+- Google Looker Studio → for creating interactive dashboards and visualizing insights
 # 🔎 Analysis Focus
+- Revenue trends: Comparing Kimia Farma’s revenue year by year (2020–2023)
+- Branch performance: Identifying the top 10 branches by total transactions and net sales per province
+- Geographic insights: Visualizing total profit distribution across Indonesian provinces with a geo map
 # 💻 Sample SQL Query
 # 📊 Visualization
 # 📚 Credi
