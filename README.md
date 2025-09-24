@@ -16,5 +16,16 @@ Kimia Farma operates a nationwide network of stores, generating sales across mul
 - Branch performance: Identifying the top 10 branches by total transactions and net sales per province
 - Geographic insights: Visualizing total profit distribution across Indonesian provinces with a geo map
 # 💻 Sample SQL Query
+```
+WITH laba_final_transaction AS
+(
+  SELECT 
+    *,
+    CASE 
+      WHEN nett_sales <= 50000 THEN 0.1
+      WHEN nett_sales > 50000 AND nett_sales <= 100000 THEN 0.15
+      WHEN nett_sales > 100000 AND nett_sales <= 300000 THEN 0.2
+    ....
+```
 # 📊 Visualization
 # 📚 Credi
